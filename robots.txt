@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bangwayne.github.io/bangweyne.github.io//sitemap.xml
+Sitemap: https://bangwayne.github.io/sitemap.xml
